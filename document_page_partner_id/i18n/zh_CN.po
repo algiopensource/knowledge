@@ -20,7 +20,7 @@ msgstr ""
 #. module: document_page_partner_id
 #: model:ir.model,name:document_page_partner_id.model_document_page
 msgid "Document Page"
-msgstr ""
+msgstr "文档页面"
 
 #. module: document_page_partner_id
 #: view:document.page:document_page_partner_id.view_wiki_filter
